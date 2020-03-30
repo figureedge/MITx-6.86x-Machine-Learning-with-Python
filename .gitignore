@@ -5,6 +5,4 @@
 # *.gz
 # *.rar
 
-# ignore large mat file oncerted fomr py train data set
-*.mat
 
